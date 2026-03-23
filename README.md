@@ -60,7 +60,7 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 ```json
 {
   "nome": "Vitoria",
-  "email": "vitoria@edu.unifil.br"
+  "email": "vitoria.ramos@edu.unifil.br"
 }
 ```
 
@@ -71,7 +71,7 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
   "mensagem": "Usuário criado com sucesso!",
   "dados_recebidos": {
     "nome": "Vitoria",
-    "email": "vitoria@edu.unifil.br"
+    "email": "vitoria.ramos@edu.unifil.br"
   }
 }
 ```
