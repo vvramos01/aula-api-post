@@ -30,6 +30,8 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
   "status": "success",
   "timestamp": "2026-03-22T22:06:27.775Z"
 }
+
+
 ```
 
 ---
@@ -62,11 +64,14 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
   "nome": "Vitoria",
   "email": "vitoria@email.com"
 }
+
+<img width="1919" height="1139" alt="Captura de tela 2026-03-23 154227" src="https://github.com/user-attachments/assets/15b75eb0-865a-4f5f-ab5f-ff1a25800654" />
 ```
 
 **Resposta:**
 
 ```json
+
 {
   "mensagem": "Usuário criado com sucesso!",
   "dados_recebidos": {
