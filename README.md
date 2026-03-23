@@ -1,13 +1,13 @@
 
-# 📌 API REST - Node.js (Express)
+#  API REST - Node.js (Express)
 
-## 📖 Descrição
+##  Descrição
 
 API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST para simulação de cadastro e autenticação de usuários.
 
 ---
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * Node.js
 * Express
@@ -16,9 +16,9 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 
 ---
 
-## 📡 Endpoints
+##  Endpoints
 
-### 🔹 GET /
+###  GET /
 
 **URL:** http://localhost:3000/
 **Descrição:** Retorna status da API
@@ -34,7 +34,7 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 
 ---
 
-### 🔹 GET /info
+###  GET /info
 
 **URL:** http://localhost:3000/info
 **Descrição:** Informações da API
@@ -51,7 +51,7 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 
 ---
 
-### 🔹 POST /usuarios
+###  POST /usuarios
 
 **URL:** http://localhost:3000/usuarios
 
@@ -78,7 +78,7 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 
 ---
 
-### 🔹 POST /login
+###  POST /login
 
 **URL:** http://localhost:3000/login
 
@@ -103,7 +103,7 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 
 ---
 
-### 🔹 GET /api/me
+###  GET /api/me
 
 **Descrição:** Retorna dados pessoais
 
@@ -120,7 +120,7 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 
 ---
 
-### 🔹 GET /api/data
+###  GET /api/data
 
 **Descrição:** Retorna data atual
 
@@ -134,7 +134,7 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 
 ---
 
-### 🔹 GET /api/random
+###  GET /api/random
 
 **Descrição:** Número aleatório
 
@@ -148,21 +148,21 @@ API REST desenvolvida em Node.js utilizando Express, com endpoints GET e POST pa
 
 ---
 
-## ✅ Validações implementadas
+##  Validações implementadas
 
 * Verificação de campos obrigatórios (email e senha no login)
 * Retorno de erro 400 quando dados não são enviados
 
 ---
 
-## 🧪 Testes
+##  Testes
 
 Todos os endpoints foram testados utilizando o Postman.
 A collection está disponível no repositório.
 
 ---
 
-## 📁 Repositório
+##  Repositório
 
 =======
 Trabalho de API REST desenvolvido em Node.js com Express.
@@ -180,5 +180,5 @@ Todos testados no Postman.
 Collection incluída no repositório.
 
 Link do projeto:
- ef067b5a6421c79719db22a89beb402a81c41e98
+ef067b5a6421c79719db22a89beb402a81c41e98
 https://github.com/vvramos01/aula-api-post
